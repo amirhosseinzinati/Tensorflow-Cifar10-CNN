@@ -11,3 +11,6 @@ Test accuracy: 75.95 %
 # result
 this is Test result on a small amount of test data
 ![TestResult](https://github.com/amirhosseinzinati/Tensorflow-Cifar10-CNN/blob/main/TestResult.png)
+
+# References
+- [CIFAR-10](https://www.cs.toronto.edu/~kriz/cifar.html)
